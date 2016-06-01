@@ -3,8 +3,3 @@ E:\gg\gg\bin\Debug\gg.pdb
 E:\gg\gg\obj\Debug\gg.csprojResolveAssemblyReference.cache
 E:\gg\gg\obj\Debug\gg.dll
 E:\gg\gg\obj\Debug\gg.pdb
-D:\Final\gg\gg\obj\Debug\gg.csprojResolveAssemblyReference.cache
-D:\Final\gg\gg\obj\Debug\gg.dll
-D:\Final\gg\gg\obj\Debug\gg.pdb
-D:\Final\gg\gg\bin\Debug\gg.dll
-D:\Final\gg\gg\bin\Debug\gg.pdb
