@@ -1,0 +1,7 @@
+E:\gg\TestTA2\bin\Debug\TestTA2.dll
+E:\gg\TestTA2\bin\Debug\TestTA2.pdb
+E:\gg\TestTA2\bin\Debug\gg.dll
+E:\gg\TestTA2\bin\Debug\gg.pdb
+E:\gg\TestTA2\obj\Debug\TestTA2.csprojResolveAssemblyReference.cache
+E:\gg\TestTA2\obj\Debug\TestTA2.dll
+E:\gg\TestTA2\obj\Debug\TestTA2.pdb
